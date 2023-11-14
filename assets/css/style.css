@@ -533,7 +533,7 @@ section {
   color: #82909c;
 }
 .about .image {
-  background: url('../img/foto-bimaw.png') center center no-repeat;
+  background: url('../img/me.jpg') center center no-repeat;
   background-size: cover;
   border-radius: 50%;
   min-height: 355px;
